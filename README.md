@@ -9,10 +9,15 @@ Process
 
 
 1.Define the problem
+
 2.Data Gathering
+
 3.Data Cleaning
+
 4.Data Exploration and Visualization
+
 5.Train th algorithm
+
 6.Evaluate your model(Regression and Classification) using a few metrics
 
 
